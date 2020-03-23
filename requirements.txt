@@ -1,2 +1,3 @@
 pandas
 nltk
+rake_nltk

@@ -909,9 +909,6 @@ Adobe Document Cloud
 Adobe Edge
 Adobe Encore
 Adobe Experience
-Adobe Experience Design
-Adobe Experience Designer
-Adobe Experience Manager
 Adobe Fireworks
 Adobe Freehand
 Adobe Fuse
@@ -2928,7 +2925,6 @@ Benthic
 Bentley
 Bentley Systems
 Bento
-Benutzeroberfläche und User Experience
 Beowulf Clusters
 Bequests
 Berkeley DB
@@ -2939,33 +2935,11 @@ Berufliche Weiterentwicklung
 Bespoke
 Bespoke Website Design
 Besprechungen
-Best Case
-Best Execution
-Best Value
-Beta
 Beta Management
-Betacam
-Betriebssysteme
 Beverage Development
 Beverage Industry
 Beyond Compare
-Bhangra
-BiCMOS
-Biacore
-Biamp
-Bias Peak
 Bias for Action
-BibTeX
-Bible
-Bible Study
-Bible Teaching
-Biblical Hebrew
-Biblical Languages
-Biblical Studies
-Biblical Teaching
-Bibliographic Instruction
-Bibliometrics
-Bibliotherapy
 Bicycle
 Bicycle & Pedestrian Planning
 Bicycle Accidents
@@ -2981,9 +2955,7 @@ Bid Response
 Bid Specifications
 Bid Strategy
 Bid Writing
-Bid2Win
 Bidding Process
-Bids
 Big Band
 Big Box
 Big Data
@@ -2994,19 +2966,12 @@ Big Thinker
 Big Ticket Sales
 Big-picture Thinking
 BigFix
-BigHand Digital Dictation
 BigIP
 BigTable
 Bike Repair
 Bikes
 Bikini
 Bikram Yoga
-Bildausgabe
-Bildbearbeitung
-Bildbearbeitung & Fotografie
-Bildbearbeitung und Retusche
-Bildung
-Bildverwaltung
 Bilingual Communications
 Bilingual Education
 Bilingualism
@@ -3433,10 +3398,6 @@ Bowls
 Bowman
 Bowtie
 Box
-Box Office Management
-Box.net
-Box2D
-Boxercise
 Boxing
 Boxstarter
 Boy Scouts
@@ -3444,38 +3405,24 @@ Bracelets
 Braces
 Brachytherapy
 Brackets
-Bradford Assay
 Braiding
 Braille
-Brain Gym
 Brain Injury
 Brain Research
 Brain Training
 Brain Tumors
 Brain-computer Interfaces
 Brainbench Certifications
-Brainshark
 Brainspotting
 Braising
 Brake
-Branch Accounting
-Branch Administration
-Branch Banking
-Branch Handling
-Branch Management
-Branch Operation
 Branchless Banking
-Brand Activation
 Brand Advertising
 Brand Ambassadorship
-Brand Architecture
-Brand Asset Management
 Brand Awareness
 Brand Awareness Programs
 Brand Consultancy
 Brand Design
-Brand Equity
-Brand Equity Development
 Brand Essence
 Brand Evolution
 Brand Extensions
@@ -3506,11 +3453,6 @@ Branding & Identity
 Branding & Identity Marketing
 Branding Consultancy
 Branding Research
-Brass
-Brazilian Blowouts
-Brazilian Jiu-Jitsu
-Brazilian Portuguese
-Brazilian Waxing
 Brazing
 Breach Of Contract
 Bread
@@ -3672,20 +3614,15 @@ Building Business Partnerships
 Building C-Level Relationships
 Building Clientele
 Building Coalitions
-Building Code Research
-Building Code Review
-Building Codes
 Building Community Partnerships
 Building Connections
 Building Conservation
 Building Contacts
 Building Design
 Building Diagnostics
-Building Effective Relationships
 Building Energy Analysis
 Building Energy Modeling
 Building Engineering
-Building Envelope
 Building Evaluations
 Building Information Modeling (BIM)
 Building Inspections
@@ -3698,19 +3635,15 @@ Building Management
 Building Management Systems
 Building Materials
 Building Models
-Building New Business
 Building Operations
 Building Organizational Capability
-Building Owners
 Building Performance
 Building Permits
 Building Physics
-Building Schools for the Future
 Building Science
 Building Security
 Building Services
 Building Simulation
-Building Societies
 Building Strong Referral Networks
 Building Surveying
 Building Technologies
@@ -3730,29 +3663,16 @@ Bulk SMS
 Bulk Sales
 Bulkheads
 Bullet
-Bullet Proof Manager
 Bulletin Boards
 Bulletins
-Bump
 Bumper Stickers
 Bundling
 Bungalows
-Bunions
-Bunkspeed
-Bunkspeed Shot
-Bureautique
-Burgers
 Burglar Alarm
 Burlesque
-Burli
-Burma
-Burmese
 Burn-in
 Burners
-Burns
 Burp Suite
-BurrellesLuce
-Burrito
 Bursitis
 Bus
 Bus Dev
@@ -3965,15 +3885,6 @@ Buy-side
 Buyer Broker
 Buyer Education
 Buyer Representation
-Buyer's Agent
-Buyers Credit
-Buying Businesses
-Buying a Business
-Buyouts
-Buzz Marketing
-Buzz Monitoring
-Buzzsaw
-Buzzstream
 Bylaws
 Bylined Articles
 Beta 7
@@ -3983,10 +3894,6 @@ C Level Selling
 C Programming
 C Suite
 C#
-C&A
-C&E
-C&I
-C&I Lending
 C++
 C++ Builder
 C++/CLI
@@ -4059,126 +3966,20 @@ CADS RC
 CADWorx
 CADWorx Plant
 CADs
-CAE
-CAESAR
-CAESAR II
-CAF
-CAFM
-CAFTA
-CAG
-CAGE
-CAIA
-CAISO
-CALEA
-CALPUFF
-CAM
-CAM Reconciliation
-CAM350
-CAMEO
-CAMRA
-CAMS
 CAMWorks
 CAN bus
 CAN-SPAM
 CANalyser
-CANape
-CANoe
-CANopen
-CAP
-CAP 20/20
 CAP Studio
-CAPAs
-CAPE
-CAPI
-CAPL
-CAPP
-CAPWAP
-CARF
-CARROT To-Do
-CART
-CAS
-CASE
-CASPR
-CASS
-CAT tools
-CATIA
-CATSWeb
-CATT
-CAWI
-CAiCE
-CBCP
-CBD
-CBEST
-CBI
-CBM
-CBORD
-CBOT
-CBP
-CBR
-CBRN
-CC
-CC 2011
-CC 2014
-CC 2015
-CC 2015.5
-CC 2016
-CC 2017
-CC 2018
-CC&B
-CCAA
-CCAI
-CCAR
-CCC Pathways
-CCD
-CCDs
-CCE
-CCEA
-CCENT
-CCF
-CCH
 CCH Intelliconnect
 CCH Research
 CCI NewsDesk
-CCIA
-CCIE
-CCIE R&S
-CCIM
-CCIP
-CCM
-CCMA
-CCMS
-CCNA
-CCNP
-CCNP Security
-CCNet
-CCP
-CCRA
-CCRP
-CCS
-CCS-P
-CCSE
-CCSI
-CCSP
-CCT
-CCTV
-CCU
-CCVP
-CCXML
-CCleaner
-CCure
 CD Mastering
 CD Production
 CD Replication
 CD covers
 CD packaging
 CD-ROM
-CDBG
-CDC
-CDCP
-CDD
-CDEGS
-CDH
-CDIA
 CDISC Standards
 CDL
 CDL Class A
@@ -4373,6 +4174,10 @@ COGO
 COGS
 COLI
 COM
+full-stack
+UX/UI
+UX
+UI
 COM Interop
 COM+
 COMAH
@@ -4464,57 +4269,9 @@ CRM Software
 CRM- und ERP-Administration
 CRM/ERP管理
 CRO Management
-CRP
-CRPC
-CRPS
-CRS-1
-CRS-Certified Residential
-CRSP
-CRTs
-CS
-CS0-001
-CS1000
-CS1K
-CS2
-CS2000
-CS3
-CS4
-CS5
-CS5.5
-CS6
-CS6 Beta
-CS7
-CSA 2010
-CSA+
-CSAM
-CSAT
-CSCF
-CSCP
-CSCS
-CSCS Card
-CSCW
-CSD
-CSE
-CSEP
-CSF
-CSG
-CSI
-CSLA
-CSM
-CSMS
-CSOX
-CSPO
-CSPro
-CSR
-CSRF
-CSRs
 CSS
 CSS Flexbox
 CSS Sprites
-CSSEdit
-CSSGB
-CSSLP
-CSST
 CST Microwave Studio
 CSTA
 CSTE
@@ -4522,46 +4279,6 @@ CSU/DSUs
 CSWA
 CSWP
 CT Summation
-CTA
-CTAs
-CTC
-CTF
-CTFA
-CTFL
-CTI
-CTIOS
-CTL
-CTM
-CTP
-CTQ
-CTR
-CTRM
-CTRS
-CTT
-CUA
-CUBS
-CUDA
-CUPS
-CUTE
-CVA
-CVE
-CVIS
-CVM
-CVOR
-CVS
-CVaR
-CWA
-CWNA
-CWS
-CWSP
-CWTS
-CX
-CXO
-CXO level engagement
-CYMA
-CYME
-CYPE
-Cabaret
 Cabinet
 Cabinet Vision
 Cabinetry
@@ -22438,14 +22155,10 @@ Nikto
 Niku
 Niku Clarity
 Nimble
-Nimbus
-Nimbus Control
 Ning
 Ninject
 Nintendo DS
 Nintex
-Nios II
-Nissan
 Nitinol
 Nitric Oxide
 Nitro
@@ -22455,12 +22168,10 @@ Nitrox
 Nmap
 No-Fault
 NoSQL
-Nod32
 Nodal Analysis
 Node B
 Node Package Manager
 Node.js
-Noetix
 Noise Cancellation
 Noise Control
 Noise Figure Meter
@@ -22471,27 +22182,6 @@ Nokia Qt
 Nomad
 Nomadix
 Nomenclature
-Non-Conforming
-Non-Executive Director
-Non-Food Items
-Non-Functional Requirements
-Non-Governmental Organizations (NGOs)
-Non-IT
-Non-Qualified Deferred Compensation
-Non-Violent Crisis Intervention
-Non-clinical
-Non-compete Agreements
-Non-compete Litigation
-Non-disclosure Agreements
-Non-fiction
-Non-fiction Writer
-Non-formal Education
-Non-functional Testing
-Non-infringement
-Non-invasive Cardiology
-Non-linear Analysis
-Non-linear Editing
-Non-performing Loans
 Non-profit Board Development
 Non-profit Board Leadership
 Non-profit Boards
@@ -27367,17 +27057,9 @@ RTMP
 RTMS
 RTO
 RTO Management
-RTS
 RTT DeltaGen
-RTU
-RTV
-RUM
-RUP
 RUP Methodologies
 RV Insurance
-RVM
-RVs
-RWA
 RWD Info Pak
 Rabbit
 RabbitMQ
@@ -27396,7 +27078,6 @@ Racquetball
 RadNet
 Radar
 Radia
-Radian6
 Radiance
 Radiant
 Radiation
@@ -27525,24 +27206,6 @@ Ratemaking
 Rating Agency Relations
 Ratings
 Ratings Advisory
-Rational Apex
-Rational AppScan
-Rational Change
-Rational DOORS
-Rational Functional Tester
-Rational Method Composer
-Rational Performance Tester
-Rational Quality Manager
-Rational Robot
-Rational Rose 2000
-Rational Rose Enterprise Edition
-Rational Rose Real Time
-Rational Software Architect
-Rational Software Modeler
-Rational Suite
-Rational Team Concert
-Rational Test Manager
-Rational XDE
 Rationalisation
 Ratios
 Raven
@@ -27555,15 +27218,7 @@ Ray Tracing
 Rayfire
 Razor Cutting
 Razors Edge
-Re-Roofing
-Re-engineering
 Re-entry
-Re-recording
-Re-recording Mixing
-ReCap 360
-ReIM
-ReMake
-ReSA
 ReSharper
 React Native
 React.js
@@ -27575,11 +27230,7 @@ Reactive Ion Etching
 Reactor
 Reactor Design
 Reactor Physics
-Read 180
-Read Music
 Readability
-Reader's Advisory
-Readiness
 Readiness Assessments
 Reading Comprehension
 Reading Development
@@ -27589,7 +27240,6 @@ Reading Workshop
 Ready Meals
 Ready Mix Concrete
 Reagents
-Reaktor
 Real Analysis
 Real Estate
 Real Options Analysis
@@ -27633,9 +27283,6 @@ Rebates
 Rebel
 Rebranding
 Rebuilds
-Rec 2 Rec
-Rec to Rec
-RecTrac
 Recalls
 Recapitalizations
 Receivers
@@ -34640,83 +34287,17 @@ UDig
 UPerform
 Underscores
 UniPaaS
-V Lookups
 V+
-V-Max
-V-Model
-V-Ray
-V1
-V2V
-V3 Foundation
-V5
-V5.2
-V8
-VA/VE
-VAD
-VAPS
-VAPT
 VAR Recruitment
-VARTM
-VARs
-VASP
-VAST
 VAT Registration
-VAV
-VAVE
-VAWA
-VAX
-VB5
-VBAC
-VBC
 VBScript
 VC#
-VC-1
-VCAT
-VCI
-VCL
-VCM
-VCO
-VCP-NV
-VCP6-DCV
-VCT
-VDA
-VDI
-VDM
-VDS
 VDSL
 VDSL2
-VEE
-VESDA
-VEX
 VFX Supervision
-VGA
-VHDA
-VHDL
-VHDL-AMS
-VHF
-VHS
-VILT
-VIO
-VIOS
-VIP
 VIP Protection
 VIP Services
 VIP management
-VIPP
-VISSIM
-VISUM
-VJ
-VLAN
-VLC
-VLDB
-VLL
-VLR
-VLS
-VLSI CAD
-VLSM
-VM
-VM/CMS
-VMD
 VMEbus
 VMGSim
 VMI
@@ -34728,50 +34309,12 @@ VMware ESX
 VMware Fusion
 VMware Infrastructure
 VMware NSX
-VMware Player
 VMware Server
 VMware VTSP
-VMware View
-VMware Workstation
 VMware vCenter
 VMware vSphere
-VNA
-VO
-VOCs
-VOD
 VOIP
-VOS
-VP8
-VPM
-VPP
 VPython
-VRBO
-VRML
-VRS
-VRTX
-VRU
-VS
-VSA
-VSAM
-VSAT
-VSD
-VSE
-VSEO
-VSOE
-VSP 4
-VSS
-VST
-VSTO
-VSTS
-VSX
-VT
-VTAM
-VTC
-VTK
-VTL
-VTP
-VTR
-VTS
 VTune
 VTune Amplifier
 VUI Design
