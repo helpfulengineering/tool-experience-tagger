@@ -64,9 +64,10 @@ stop_words = set(stopwords.words("english"))
 # Creating a list of custom stopwords
 new_words = ["using", "show", "result", "large", "also", "iv", "one", "two", "new", "previously", "shown", "well",
              "recently", "includes", "may", "im", "etc", "grad", "actually", "working", "worked", "ideal", "experience",
-             "able", "additionally", "use", "got", "work", "states", "lots", "say", "much", "appropriate", "ask", "starting"
-             "considering", "thing", "willing", "hoping", "helping", "went", "sent", "glad", "witch", "used", "done",
-             "sure", "items", "description", "helping", "experienced", "ask", "learned", "years", "nerd", "things"]
+             "able", "additionally", "use", "got", "work", "states", "lots", "say", "much", "appropriate", "ask",
+             "starting", "considering", "thing", "willing", "hoping", "helping", "went", "sent", "glad", "witch",
+             "used", "done", "sure", "items", "description", "helping", "experienced", "ask", "learned", "years",
+             "nerd", "things", "please", "coming", "based", "moment", "looking", "like", "many"]
 stop_words = stop_words.union(new_words)
 
 skillslist = []
